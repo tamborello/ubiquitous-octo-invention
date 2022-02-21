@@ -1,0 +1,593 @@
+ 
+
+’ KUBARK INTERNAL USE ONLY
+
+   
+
+B. Types of DA Operations by Origin.
+
+_ ° Almost all double agent operations begin in one of three
+wayé: a walk-in or talk-in, hostile agent detected and
+. doubled, or a provocation, KUBARK often acquires a DA
+
+case by transfer from another 'ODYOKE: service or from
+
+‘liaison; when it does, it is important that the type of origin
+be included in the information obtained from the transferring
+service. A DA,case can ‘also result if one service offers
+recruitment to the agent of another not because of provoca-
+tion or stake-out but by chance,
+
+   
+
+L The Transferred Agent.
+
+ 
+
+me . Analysis. suggests that nearly two-thirds of KUBARK'‘s
+DA operations begin (for KUBARK) by transfer from another ‘
+service, Usually, however, the transferring service merely
+made initial contact with a walk-in and turned him over to
+KUBARK without having used him operationally. If a going |
+i) operation is transferred, it is vital that the base or case an
+
+ 
+
+@
+
+officer accepting jurisdiction obtain the case-records of the :
+prior service, If:these.are- unavailable; knowledgeable: +: -
+representatives of the:transferring service'should:be de<' ©
+“briefed as completely.as'‘possible, Flaws imbedded ‘in the
+operation may make it unsuitable for exploitation or may
+require correction. In addition to determining origin, the
+KUBARK case officer should obtain the prior service's :
+assessment of the DA, both as person and as agent. Even
+
+if the case officer considers that the earlier handling was
+defective, he should give due weight to such an assessment.
+In a few operations KUBARK has repeated the mistakes. of
+the transferring service through failure to obtain an assess-
+ment or’ through ignoring the earlier record. : :
+
+   
+
+2, The Walk-In and Talk-In,
+
+More than half of KUBARK's DA cases start because
+an agent of an adversary service volunteers information to a
+
+Ht SS SP NSE ERA MER RIN OS AD AME 0 FIRST TAS PINAR PE LIL A ESAS BET ET EAS Bia tet
+
+23-0 “ peEEmates.,
+
+   
+
+__) KUBARK INTERNAL USE ONLY
+
+ 
+
+ 
+
+pase ere CRSP TE LEE ET pram on nena RN RN
+
+      
+KUBARK INTERNAL USE ONLY .-
+
+   
+
+non-Bloc service or official, Although the danger of provo-
+cation is always present in walk-in cases, the fact remains
+' that DA operations that have begun in thia way have, as a
+class, proven more rewarding to KUBARK than any other
+type. The agent of an adversary service who approaches.
+_ KUBARK and volunteers information about the adversary has
+'@ choice of a number of means of making the first contact.
+In addition to presenting himself physically (to KUBARK or
+: any/ODYOKE. intermediary), he can send an emissary,
+write a letter, make a phone call, or even establish radio
+: contact, KUBARK's problem,clearly, is to separate the
+: walk-ins and talk-ins who are acting on their own initiative
+from those who. are seeking contact at the instigation of a
+hostile service.
+
+ 
+
+ 
+
+ 
+
+3. Detected and Doubled (D & D).
+
+  
+   
+    
+   
+ 
+ 
+   
+   
+   
+ 
+ 
+   
+   
+
+About a fifth of the DA cases handled directly by
+KUBARK: have begun with the identification of a hostile
+agent, -interrogation, and doubling, Analysis suggests
+that in peacetime D&D. cases are frequently perilous and +.
+: ‘unprofitable. _The:agent's agreement'to double, obtained
+j under stated or, implied duress, is rarely accompanied by~
+
+: va real -switch-in loyalties. -. The likeliest exception is the |
+agent. who served the adversary unwillingly, under pressure,
+and who (though afraid to approach the authorities on his own
+initiative) is relieved when his clandestine role is brought
+te light, The risk in handling D & D cases is also mitigated
+
+' in joint operations conducted with liaison services that can
+exercise strong executive authority.
+
+-4 The Provocation Agent,
+; Provocation is the least common origin of DA cases,
+When employed, it has, in the past, been used by a Bloc
+
+service against KUBARK or another Western service more
+frequently than vice-versa, Provocation may be direct, as
+
+-4> GAS ee
+
+KUBARK INTERNAL USE ONLY
+
+|
+{-
+t
+4
+:
+7
+;
+|
+
+ 
+
+ 
+
+    
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+
+~ KUBARK INTERNAL USE ONLY
+
+Ml, THE DOUBLE AGENT OPERATION:
+_ GENERAL PRELIMINARY CONSIDERATIONS
+GENERAL PRELIMINARY CONSIDERA TIONS
+
+"A discussion of operational details appears in Part V
+of this.guide. Here the purpose is to present basic infor-
+mation and principles about the beginnings of DA operations.
+
+A. Definition,
+
+A double agent is a person who engages in clandestine
+activity for two intelligence or security services (or more
+in joint operations), who provides inforrnation about one to
+the other or about each to the other, and who is. wittingly
+withholding significant information from one on the instruc-
+
+. Hons of the other or is unwittingly manipulated by one so
+
+that significant information ig: seithheld from the other.
+service, Peddlers, fabricaters, and others who do not per-
+form a service for an intelligence organization, ‘but only for
+themselves, are not agents at all and therefore-are not .*
+DA's. Asa rule the DA has an agent relationship with both -
+services; a fact which distinguishes him: from the’ Penetration :
+agent, who usually serves the Cl service as an agent but.the.
+target or adversary service as a staff member or ina staff
+capacity. Multiple agents frequently draw a variety of
+agsigaments from several services. Although they may pro-
+vide counterintelligence information, and although they
+
+ 
+
+‘present difficulties in handling and security which resemble
+
+these problems in the double agent operation, the two types
+are distinct. The DA is usually directed against a single
+adversary, whereas the multiple agent resembles a private
+detective with a number of clients,
+
+The part of the definition which stipulates the with-
+holding of significant information results from the fact that
+an agent who tells everything he knows to both sides becomes,
+unless unwittingly manipulated by one of the services, an un-
+authorized liaison channel with the enemy. Such situations
+are unprofitable and cease to be operations,
+
+oe -2- 000 SE
+".KUBARK INTERNAL USE ONLY a
+
+ 
+
+a)
+
+ 
+
+ 
+
+  
+   
+
+ 
+
+ 
+“KUBARK INTERNAL USE ONLY
+
+     
+
+"Field Guide for Double Agent Operations
+
+ 
+ 
+
+L INTRODUCTION , ws
+
+ 
+ 
+
+For the past two years |KUDESK has been engaged in a I
+detailed analysis of KUBARK double agent cases. The
+results have been collated, and the findings have been dis-
+seminated within headquarters ina study which is also —
+
+available to the field upon request, - , : :
+
+  
+
+ 
+
+4 .. This guide is intended for field use by case officers and - : ;
+3 others concerned with DA operations. It represents both : ot,
+3 : the above research and the views of a number of experienced 4 oa
+
+FS and senior KUBARK officers. , . ; Pr
+‘ oD _ If field reporting of double agent operations: includes all -
+a essentials discussed here,’ further research on this subject ;~ be
+4 will be facilitated and further :guidance'will'tesult,.in' as: :
+
+E continuing cycle. ° | .
+iJ wo: . .
+
+# ; The comments and views of the users of this guide are |
+
+i solicited, '
+
+u
+
+ 
+
+ 
+
+" KUBARK INTERNAL USE ONLY ~
+
+ti. ui geain ass cone tem ns Nagow a arose ENT
+
+ 
+
+Gir SECRET
+
+AGES Nap cesar namcserbimam me
+
+  
+
+   
+ 
+
+ 
+
+ 
+
+MRE RE ETE Ra BS NAN CR Roe MONIT AAR ens OTTER
+
+SUE Nae RSL RA MS LOAN th SEOs be Rael ea
+
+ 
+
+ 
+
+KUBARK INTERNAL USE ONLY
+
+SUBJECT
+
+Vo
+
+ 
+
+ 
+
+ 
+
+A,
+
+_B.
+
+IV, THE DOUBLE AGENT AS AN AGENT
+
+Prior Intelligence Associations
+Continuing Investigation
+Training
+
+Testing
+
+Control
+
+Agent Motivation
+
+THE DOUBLE AGENT OPERATION:
+SPECIFICS -"*
+
+Access
+
+Appetite
+Production
+Mirror-Reading
+KUBARK Security
+Adversary Security
+
+Communications
+
+iti
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+_KUBARK INTERNAL. USE ONLY
+
+we é
+
+ 
+
+ 
+
+SUBJECT —
+
+ 
+
+H, Finances / . - : 64-67
+
+  
+
+ 
+
+ 
+
+ 
+
+L Reporting | Hee 67-69 :
+VL CASE OFFICER'S CHECK LIST 10-82 :
+vi, INDEX : 83-90 i
+. i
+:
+! 8 |
+i
+
+ 
+
+   
+
+oo : iv
+
+. .KUBARK INTERNAL USE ONLY
+
+  
+ 
+
+, snREE SEG SSNRLIA (aoa UTP dn RANI ee Soke HET
+
+ 
+j r
+
+ 
+
+ee ss .
+
+    
+
+gee
+
+KUBARK INTERNAL USE ONLY
+
+hate
+
+se LIBS ee
+
+FIELD DOUBLE AGENT GUIDE
+
+" August 1960
+
+ 
+
+& .
+
+ 
+
+%
+id
+
+cy eos
+
+KUBARK INTERNAL USE ONLY
+
+star nnemennilinaee ess
+
++ Sisudiegaaen arr wipe ITER TE AE
+.
+
+   
+
+PY INTO BITE CT Me NAR AS ARETE ARPA TF IN ot
+
+ETP agai Boge:
+
+oO
+re)
+fh
+
+Fa
+
+i Aipeeat flaw me  me pe
+rer
+ 
+
+ 
+     
+   
+
+  
+
+QB SECRET
+. RUBARK INTERNAL USE ONLY
+
+   
+
+ 
+
+FIELD DOUBLE AGENT GUIDE
+
+August 1960 ; ae
+
+ 
+
+   
+
+* UBARK INTERNAL USE ONLY = - “Copy No. 134
+
+~~. WGP SECRET
+
+   
+ 
+
+        
+ 
+
+  
+ 
+
+ 
+  
+
+SaaS NO ROR RE ERT TROL eUEA tar EAE MEET San PRAY SULTS Wee ERS
+
+ 
+
+ 
+
+   
+
+4 KUBARK INTERNAL USE ONLY
+
+FIELD DOUBLE AGENT GUIDE
+
+TABLE OF CONTENTS _
+
+SUBJECT PAGE
+LL’ INTRODUCTION 1
+bi THE DOUBLE AGENT OPERATION: - Bnd4
+GENERAL PRELIMINARY CONSIDERATIONS
+A, Definition 2
+B. DA Types by Origin 3-6.
+1, Transfers 3
+2. Walk-In or Talk-In 3-4
+3. Dand D : 4
+4. Provocation : 4-5
+C. Goals in DA Operations 6-10
+1, KUBARK. 6-9
+2. Adversary 9-10
+BD, Selection and the Four Key Tests” 10-13
+l. The Tests _- "19-12
+a, Withholding
+b. Stayability — u
+ec. Adversary Trust bh
+
+d,. Control of Communication L-12
+
+       
+
+i
+; , KUBARK INTERNAL USE ONLY
+
+   
+
+ 
+
+ 
+
+ 
+4-000
+
+ves
+
+VA
+
+ 
+
+ 
+
+FA
+Gime SECRE
+( KUBARK INTERNAL USE ONLY | e%
+SUBJECT PAGE
+2. Significance of Tests 2
+3. U.S, Citizens as DA's 12-13 |
+: i
+: E, Planning and Preliminary Steps 13-24 i
+; 7
+: 1. Estimating Adversary Goals B i
+; 2. Information Needed for Planning 13-17
+i 3, The Plan 17-22 ,
+: 4, Preliminary Testing of Bona Fides 23-24 i
+W. THE DOUBLE AGENT AS A PERSON 25-33 :
+A. Willingness 25-26
+B. Emotional Stability 26-27
+C. Emotional Attachments to Others 27-28 e5 :
+\ +
+| D. Level of Intelligence 28 oe
+| E. Gullibility - Scepticism 29 i
+! F. Trustworthiness 2.930
+i 7 |
+; G. Ambition "30 :
+. H, Clandestinity 30-31
+' :
+: Introversion ~ Extroversion 32 . i
+J. Other Traits 32 1
+i
+: K. Summary 32-33
+mane i
+vs
+i ii Copy No. |
+i |
+| Q
+| KUBARK INTERNAL USE ONLY }
+! Va i
+| /
+WEP SECR |
+cote ee |
+{
+
+ 

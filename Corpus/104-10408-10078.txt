@@ -1,0 +1,623 @@
+13-00000
+
+ 
+
+DOHB 70-1-1
+CHAPTER III, ANNEX B
+
+15 November 1974
+
+a "Purging : Loe
+Purging a 201 dossier is the responsibility of the desk officer. It requires
+
+-discrimination in recognizing operationally useful material, rather than the —
+
+simple distinction between official and unofficial papers; it will therefore take
+place under the supervision of a Records Officer. Purging should be done
+periodically. A 201 dossier being forwarded to Central Files for retention should
+be purged. A 201 dossier should be purged of the following:
+
+* (1) Duplicate material, ie. exact copy(s) of a document.
+
+(2) Name trace form (Form 362) unless i it has. been the basis for
+the opening. .
+" () All abstract slips. Tee
+
+(4) All document restriction notices (Form 1884). _
+
+(5) The disseminated version of positive intelligence information if
+a copy of the raw report is contained in the 201 file; the dissemination number
+then must be transferred to the first page of the raw report.
+
+(8) Routing slips, routing and record. sheets: (Form 610) and dispatch
+cover sheets unless there are remarks such as coordinations or comments.
+
+(7) Record copy documents which only repeat substantive information
+contained in other documents in the file; authorization for destruction is
+by the Records Officer.
+
+(8) Top Secret documents are not to be retained in a 201 dossier
+forwarded to Central Files; the document must be downgraded for retention
+in the 201 dossier. To downgrade a Top Secret document, an authorized
+officer in the originating office or the Records Officer having jurisdiction
+over the contents of the material must possess Top Secret classification
+authority. If the document cannot be downgraded the file should be retained
+at the: desk or the copy of the TS document should be removed, retained
+in a desk TS file or forwarded to the Top Secret Control Officer, and a
+cross-reference sheet (Form 867) placed in the 20} file giving the location
+of the TS document.
+
+* (9) Deferred documents (see 5b(2)}.
+
+b. Maintenance Procedures ; .
+(1) All material in a 201 dossier will be filed in document date order.
+In the case of document attachments which have been classified into a 201 .
+96.2
+
+SOREL
+
+ 
+13-0000 —
+
+    
+
+DOHB 70-1-1
+CHAPTER III, ANNEX B
+
+15 November 1974
+
+dossier and separated from.the basic document by the assignment of a slash
+
+‘number, the attachment will be filed by the date of the basic document.
+
+(2) Deferred documents will not be filed in a 201 dossier. If they are
+to be retained in the dossier they should be sent to Tei RMS for classification
+into that 201.
+
+(3) Field index cards (held by some-desks) and area desk cards ‘may
+be retained in the 201 as part of a consolidation procedure. These cards
+
+should be mounted on a full-size sheet of paper for filing in the 201. .
+
+(4) A-201 dossier previously opened on a person who becomes a staff
+employee and which contains Record Copy documents will be restricted to
+the ISG/DIP unless the desk retains the restriction. The dossier should be
+closed if there are no Record Copy documents in it.
+
+(5) A 201 opened in pseudonym should be consolidated into the tue
+name 201 if one exists or converted to the true name.
+
+(6) Field and duplicate (shadow) 201 files no longer of active interest
+should be incorporated into the official 201 after the duplicate material
+has been purged by the desk officer and the remaining information classified
+to that 201 by the Analysis Section (IP/AN).
+
+“(7) Any document with a predecessor organization cover sheet or an
+
+_ OPC (Office of Policy Coordination) cover sheet from thd Archives and
+
+Disposition Section (IP/ARD) must be returned to IP/ARD for processing
+to the 201.
+
+(8) Desk memoranda (with or without a document source number)
+containing substantive or derogatory information on the subject of the 201
+should be sent to. IP/AN to be classified officially into the 201 file.
+
+(9) An attachment which should be separated from its basic document
+for inclusion in a 201 personality dossier will be forwarded with the basic
+document to IP/AN for processing into the 201.
+
+(10) To retain the P&L, RYBAT, or KAPOK sensitivity of a document
+remaining in a 201 dossier being retired to Central Files, place that document
+in an envelope sealed with black tape (see DOI 70-17). Any RYBAT, P&L,
+or KAPOK document sent to Central Files not in a black-taped envelope will
+
+* automatically be handled as desensitized. A black-taped envelope may con- _
+
+tain only one document and must be filed in chronological order within the
+file. If there are numerous documents of this type the desk officer may black-
+tape the entire dossier rather than individual documents (see DOI 70-10).
+
+26.3
+
+SECRET
+
+ 
+DOHB 70-1-1
+CHAPTER III, ANNEX B
+
+15 November 1974
+
+4. CONTENTS OF THE DOSSIER
+
+Information about a 201 personality should be filed or cross-referenced:into
+his dossiér. When additional information is discovered on a 201 subject through
+a name trace or other process, i.e. review of predecessor documents, it must
+be consolidated into his personality dossier. See DOI 70-20 for consolidation
+procedures.
+
+Material which is filed in the dossier includes but is not limited to:
+a. 201 Personality File Action Request. (Form 831).
+
+b. Biographic information including photographs, fingerprints, - and.
+‘handwriting samples.
+
+- _ ¢, Personal Record Questionnaire Parts I and IL.
+d. Operational and other security approvals. .
+e. Name check replies, requests, clearances, and approvals.
+£ Acknowledgement. of pseudonym.
+g- 201 personality assessments and evaluations.
+h. Copy of contract and termination papers.
+i, Secrecy agreement.
+j. Agent Duty Status Report.
+
+'k. Training and evaluation.
+1. SGSWIRL report.
+m. Newspaper clippings.
+
+ 
+
+Fs n. Any information which helps provide a better understanding of the
+oo subject and our interest in him; this may include operational reporting.
+& .
+: 5. MAINTENANCE OF 201 DOSSIERS
+A The 201 personality dossier contains, in document date order, papers which
+F have been made a part of the Central Records System as well as those which
+ss have not. Record documents may range from newspaper or magazine articles
++ on the subject to finance and other administrative papers.
+i .
+
+26.1
+
+see og,
+
+s2GReP
+
+oe eet ee mem ete reer
+
+te
+
+ 
+13-00000
+
+ 
+
+ 
+
+ss
+
+ee : DOHB 70-1-1
+eB, vt CHAPTER Ill, ANNEX B
+
+15 November 1974
+
+persons who are only of local interest to a field station or Headquarters desk
+and on whom no DDO records correspondence exists are not a part of the. DDO
+records systém and are to be maintained. by that unit. Some desks levy require- ‘
+ments.on ISG for automatic 201 openings on certain categories of persons whose +
+names appear in incoming dispatches. These are listed in Attachment 2.201
+dossiers should be opened in the following categories:
+
+(1) Subjects of provisional operational approval. and. operational ap-
+proval requests. However, a file need not be opened when a POA is requested
+for persons being trained for a foreign liaison service and who are of opera-
+
+: ‘tional . interest for training purposes only.
+
+(2) Persons for whom the field requests a 201 opening.
+
+(3) MHFIXTURE personalities: bonafide diplomats of other than
+denied area countries, in close association with staff personnel.
+
+_ (4) Subjects of a Personal Record Questionnaire Part I.
+
+(8) Persons on whom a Main Index search reveals information in five
+or more documents (see DOI 70-20).
+
+(6) Subjects of Interagency Source Register memoranda from LSN/
+ISR (opened only by IP/RMS).
+
+b. Requesting a 201 File Opening
+
+Headquarters desks may open a 201 file by filling out and submitting
+a 201 Personality File Action Request (Form 831) to the Records Main-
+tenance Section (IP/RMS). Form 831 is also used to create or amend the
+master 201 record and 201 machine listings and to register the assign-
+ment of a cryptonym to a 201 personality. Attachment 3 consists of sample
+201 Personality File Action Requests for opening and amending 201’s. A field
+station may request the opening of a 201 file by writing 201- in the Head-
+quarters file or cross-reference box on the dispatch form and/or after the
+subject's name in the body of the dispatch. A telepouch request for a 201 opening ©
+is made by indicating 201- in the file number line. A cable request is made by
+placing 201- after the term “File” on the last line of the transmission. IP/AN
+will open 201 files as requested by dispatch or telepouch but it is the responsi-
+bility of the desk to respond to cable requests. Field stations are notified of
+201 openings through receipt of the field master 201 record.
+
+26
+
+a
+
+SECRET
+
+ 
+13-00000
+
+  
+
+DOHB 70-1-1
+CHAPTER III, ANNEX B
+
+15 November 1974
+
+ 
+
+0002: CROIX, WILLIAM PENDLETOU Be
+(O-t_-Sx A pon 12 apr 26 GERM,
+crt cent
+ AACD-12343, 20 JUN 83
+RECENTLY
+
+‘a ANNUAL
+CONFERENCE OF tue" HTEREATIOUAL ASSOCIATION OF -CREMIS?S
+PHARMACISTS HELD mm MONICH, GERMANY FROM 22 THROUGH
+
+30 NOV 70 00833535
+
+29 OCTOBER.
+
+ 
+
+Information About Subject
+
+1, Sequence Number and Name
+
+2 Sex and Date of Bicth - .
+3. Citizenship a ; *
+4. Place of Birth
+
+5. Occupation
+
+8. Occupation Code
+
+7. Text
+
+ 
+
+Document Reference Date: Group
+aa 8, 201 Number. .
+; 9. Name Type Indicator
+
+10. OF Codes
+
+  
+
+ae
+Ry
+
+TL.. Record Date (year only)
+12. Reference ; : ~
+
+sot ae 1e
+
+ISG Control Information: . ‘
+13. Date of latest update of the tecord
+14. STAR Index Record Number
+
+qth te at!
+
+ 
+
+  
+
+mat mater SEE A |
+we mee ete we om meee me ee abanmmme eemmnmes meen
+13-0000
+
+ 
+
+   
+
+ee net peareeneta ene ey ote mereme enaaen
+
+DOHB 70-1-1
+CHAPTER TH, ANNEX B
+
+15 November 1974
+
+e. OF Code: a two letter symbol used in conjunction with the 201 per-
+sonality records in the 201 system to record the association of an individual
+with’ organizations or activities of operational interest. OI codes cover intelli-
+gence and security service affiliation, whether staff or agent, or known or
+suspect, as well as activities of DDO interest. There are two categories: of OI
+codes for use by components:
+
+(1) general OI codes (Attachment 4)
+
+(2) OI codes assigned to a specific component for intelligence services
+or other specific organizations.
+
+A component may request an OI code be established, by submitting a mem-
+orandum to the DDO/RMO. through the component Records Management
+Officer.
+
+A 20] personality may be assigned two OI codes. An OI code may be assigned
+when the 201 Personality File Action Request (Form 831) is initiated (see
+
+_ paragraph 3b below) by filling in Box 13 or a code may be assigned or added
+
+at a later date by a Form 831 amendment.
+
+The 201 system has the capability of producing machine listings of 201
+personalities by OI codes. For example, if an OI code has been opened for the
+security service of a certain country a listing may be compiled of all members
+of that service.
+
+f. 201 Machine Lists: produced from the mechanized 201 Index, based on
+names or other identifying information of personalities of whom 201 dossiers
+
+“exist.
+
+"3. OPENING A 201 DOSSIER
+
+4
+
+a. General
+
+The opening of a 201 dossier is the prerogative of an operational com-
+ponent, in coordination with the Information Services Group. An opening creates
+a master 201 record. Changes to the master record and the occasional closing
+of a 20] dossier are controlled jointly by the desks and ISG. 201 dossiers may be
+opened on persons who meet the carding criteria described in Chapter II of this
+handbook, when there is a reasonable expectation that additional information
+will be acquired and filed in such a dossier. Generally dossiers are opened on i
+persons about whom counterintelligence information is being reported, and per- ‘
+sons of operational interest to the Operations Directorate, specifically those i
+persons for whom provisional operational: approvals and operational approvals
+are requested (see exception below). 201 files are not to be opened on staff‘
+employees, staff agents and most categories of contract employees. Files on
+
+~
+
+3
+
+ 
+   
+
+ 
+
+“Mr. ‘patrick carpentior
+Page Two
+
+    
+ 
+ 
+ 
+
+    
+
+Individuals ‘who’ have been contacted by communist
+_-or unfriendly intelligence . -organizatiol
+_ strumentalities thereof;
+
+ 
+
+ 
+   
+  
+
+ 
+    
+
+"og. andividuals who have xeceived:. ‘money:0
+items of nerd ingots coma t or unf
+
+    
+ 
+ 
+
+Possible and. actual “foxeign ‘tech iseeee, agents _
+» OF employees. -
+
+    
+     
+  
+ 
+ 
+  
+
+“ please address this statement ‘to..the. time. ‘period 1958-
+1964 in particular, and “indicate ‘whethe ere: were any 2: ;
+‘changes: in such:criteria* ‘during: these years, - Finally, would
+‘you please ‘specify in your response und which. -exiteria, ox
+_ combination: of: criteria, if-any; the’ opening of a. 201 file .
+was considered to be mandatory during. this period.
+
+    
+
+ 
+
+ 
+
+ 
+
+    
+         
+
+re a ge G. Robert ‘Blakey oe
+Se : : to : re Chief Counsel and Director
+
+ 
+
+    
+
+ 
+
+ 
+ 
+
+as . wae ease woe la ‘s¢ : : ra) - Ss Fr 00 0/
+
+ 
+
+WALTER ©, PAUNTROY, DAS. Symwan, | MesuNeKCY, COM, . rn
+YVONNE BRATHWAITE BURKE, CALM. cnanurs i.lowe, NEBR, . . - 5
+CHIE STOMHIR J, FOOD, COMM Se SAWYER, MICH.
+Mavoaermanioe Select Committee on | Sesassinations
+RODENT W, ROGAN, PA, . .
+: — co U.S. House of Representatives
+
+3331 HOUSE OFFICE BUILDING, ANNEX 2
+_ WASHINGTON, D.C. 20535
+
+FEB 24 1978
+
+    
+
+- Mew Patrick ‘Carpentier: ee oa
+. Office of the Legislative Counsel
+°° Central Intelligence Agency —
+Washington, D.C." 20505 - ra
+
+   
+
+Dear “Mr. Carpentier:
+
+   
+
+oo bets “In ‘connection with ‘the investigation of the House | ;
+
+: select ‘Committee*on Assassinations into the death of Presi-~
+
+_. dentJohn F. Kennedy, -I-am writing to request that by March ~
+1, 1978, the Central Intelligence Agency provide a statement
+explaining in detail the reasons for which a 201 file may be
+opened. This statement should address the following possible ..
+criteria, individually. or in any combination, as well as any
+other possible criteria not specifically listed: : :
+
+ 
+
+i - » . Le Possible and actual sources of intelligence
+oy . information; .
+
+2. Possible and actual intelligence agents, assets,
+. or contract employees;
+
+3. _Travelers, particularly ‘travelers to communist
+or unfriendly countries;
+
+4. Individuals who defect or have. attempted to
+defect to communist or unfriendly countries;
+
+5. U. S. servicemen or former U. S. servicemen who
+pose counterintelligence dangers by revealing,
+offering to reveal, or threatening to reveal
+military or intelligence secrets to communist or
+unfriendly countries;
+
+6. Individuals whose suspected counter intelligence
+activities precipitate charges in United States
+military or intelligence codes, methods, sources
+or procedures; .
+. SECRET eg song
+
+po/iss 78-0748.
+
+28 February 1978
+
+MEMORANDUM FOR: 0/SA/DO/O
+Attention: Mr. Shepanek
+
+FROM: William F. Donnelly
+Chief, Information Services Staff
+
+SUBJECT: House Select Committee on Assassinations
+Request for Information on 201 Criteria (S)
+
+REFERENCE: OLC 78-0070/19, 23 February 1978
+
+1. (S) With reference to the conversation of
+27 February between Mr. Shepanek and Mr. Cleffi of ISS,
+attached are copies of DOHB 70-1-1, 15 November 1974,
+and an earlier version, CSHB 43-1-1 dated 15 February 1960.
+A close study of the list of questions submitted by the —
+HSCA Staff has led us to conclude that the most complete
+and effective way to respond would be by inviting the
+Staff to review our regulation governing the criteria for
+opening, maintaining, controlling and closing 201 files
+by the Operations Directorate. A careful reading of the
+regulation provides an answer to every question posed by
+the Staff.
+
+2. (S) The earlier version of the regulation is
+included to reflect the situation as it existed in the
+period of their primary concern (1958-1964). The later
+version provides an expansion, clarification and refinement
+of the earlier versions.
+
+Wallana 4.
+
+William F. Donnelly
+
+SECRET
+
+ 
+ 
+
+DOHB 70-1-1
+CHAPTER Il
+
+15 November 1974
+
+_ ANNEX B
+THE 201 SYSTEM
+
+Rescission: Annex B of Chapter III, CSHB 70-1-I, 27 October 1966
+
+1. INTRODUCTION.
+
+The 201 system provides a method for identifying a person of specific in-
+terest to the Operations Directorate and for controlling and filing all pertinent
+information about that person. The system also provides a means for identifying
+subjects of 201 files from various categories of information about them and for
+producing lisits of 201 personalities according to those categories. Only a rela-
+tively. small number of personalities indexed are of sufficient interest to justify
+
+opening a 201 dossier. These are normally subjects of extensive reporting and
+
+CI investigation, prospective agents and sources, members of. groups and organi-
+zations of continuing target’ interest, or subjects on whom a volume of corre-
+
+_ spondence has accumulated.
+
+2, THE 201 SYSTEM
+
+The principal features of the 201 system are: .
+
+a. The 201 Number: a unique number, i.e, 201-1234567, assigned to each
+individual in the system to serve as identifying file number for reporting on that
+
+' individual.
+
+b. The 201 Dossier: the official file containing the 201 opening form (Form
+
+“831) and all biographic reporting on and references to the individual, ie, per-
+
+sonal history, current status, and prospects.
+
+c. The Master 201 Record: a machine record generated by the opening of
+a 201 file. This record produces the master 201 reference for the Main Index and
+stores the pertinent information which may later be retrieved! for special listings.
+
+d. Main. Index Master 901 Reference: this reference, printed in reply to an
+Index Search Request, is printed as illustrated below. When data are absent
+
+within the record, succeeding data items or lines will be moved up and the ref-
+erence consolidated.
+
+23
+
+SECKET
+
+ 

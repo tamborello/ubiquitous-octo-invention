@@ -1,0 +1,286 @@
+Doc Ref ID: A4268763
+
+ae *
+
+Serial: NOO15
+
+cc: DIR Vv
+
+_ D/DIR G
+DDO : EX REG
+Exec DDO L221
+ADLA NCRDEP
+UL :
+
+u2 7 DY
+
+M/R: a. On 17 May 1977, the Director Proposed in a memorandum
+to the DCI that the DCI assume responsibili
+focal point for requests for intelligence i
+Committee of the Congress which does not ha
+. fesponsibilities. this Proposal
+that the channel of communications for such requests should
+be through a designated individual on the IC Staff and that
+responses to the Congress should flow back through the: same
+person, providing the DCI, on behalf of the President, the oppor~
+tunity to review what intelligence information is made available
+to the Congress. The DCI has never responded to this memorandum.
+
+b. Instant memo recommends that an agreed procedure be
+developed between the Executive and Legislative Branches which
+would set forth the terms and conditions on which sensitive
+Cryptologic or other intelligence information would be provided
+to the non-oversight committees. It also recommends OSD GC
+assume action on R/S 5507 and provides background information
+On two Congressional requests (references a and c) for SIGIN?
+information. now pending in osp. : . :
+
+ 
+
+Cc. Deadline on R/S 5507 response to Ms, Siemer extended
+to 4 January per Col. Steve Harrick, ATSD(LA), and Mr. Bob
+Andrews, OSD (GC). : . .
+
+d. -Mr. Yeates, Exec DDO, and Mr. Brady, GC, concur.
+Classification reviewed by Mr. Michael Levin, D4,
+
+ar ae nd A
+A J Y “fh .. .
+JULIA |WETZED, U2, 3¥6ls, 4 Jan.78, bj
+
+| fy, mo ;
+
+Vv : . LAO
+
+ 
+   
+  
+
+ 
+
+72 GDS, Fo 115
+4 Usoa yy,
+
+ 
+
+  
+
+NATIONAL SECURITY AGENCY
+CENTRAL SECURITY SERVICE
+FORT GEORGE G. maanz, MARYLAND 20755,
+
+Serial: noo1s °
+5 January 1973
+
+MEMORANDUM FOR THE HONORABLE DEANNE SIEMER, GENERAL COUNSEL
+‘DEPARTMENT OF DEFENSE ‘
+
+A
+- &
+
+SUBJECT: Pending Congressional Requests a
+
+REFERENCES: (a) 15 December 1977 letter from Senator Gedrge
+McGovern to Secretary of Defense - ,
+
+(b) Undatea letter received on 20 December 1977
+: from Congressman Louis Stokes to Director, NSA
+
+(c) 16 December 1977 letter from Mr. Ira Nordlicht
+to the Honorable Deanne Siemer
+
+erci traditional
+Sigh i i; and, if it is to be provided,
+how it is to be done. NSA Charter legislation, now in draft
+
+the needs of the Intelligence, Armed Services, and Appropriations
+‘information by other
+committees on a purely case-by-case basis. Several times during
+the past two years, Committees of the Congress which do not have
+
+directly for foreign Signals, intelligence information. In each
+case it has been our understanding that the SIGINT information
+NSA has provided to the requesting committee is being used as
+background information in assisting that committee in formulating
+U.s. policy matters. on these infrequent Occasions, NSA has
+responded directly to the requesting committee providing either
+access to SIGINT product or briefings, as required.
+
+» _
+7 PIRNSA Chess QiSAayossyy 123.2)
+52, Ces 2
+
+SUBcction by the Originates yy
+
+DOWNGRADE: TO CONFIDENTIAL
+HVCCO UPON REMOVAL OF INCL
+
+ 
+ 
+
+i 44 USC 2017 Note
+ion Records Collection Act of 1992 (
+he John F. Kennedy Assassination
+Released on 10-26-2017 under tl
+
+ 
+
+)
+Doc Ref ID: A4268763
+. . Dare: pareasgy
+
+Pace:1
+JFK ASSASSINATION SYSTEM
+IDENTIFICATION FORM
+~~ AGENCY INFORMATION
+AGENCY : NSA -
+RECORD NUMBER : 144-10001-10134
+RECORDS SERIES :
+AGENCY FILE NUMBER : ~
+” DOCUMENT INFORMATION
+ORIGINATOR : NSA
+FROM : INMAN, B. R
+. SIEMER, G. ¢
+TITLE :
+REQUESTS
+DATE : 01/05/78
+PAGES : 4
+SUBJECTS :
+CUBA - . RIE
+DOCUMENT TYPE : MEMORANDUM, TEXTUAL DOCUMENT
+CLASSIFICATION :——
+cue SITIONS : 1B
+RENT STATUS : X
+DATE GER LAST REVIEW : 08/12/93
+
+OPENING CRITERIA :
+ORIGINATING AGENCY’ $ DETERMINATION REQUIRED
+
+COMMENTS :
+
+[R] - ITEM IS RESTRICTED
+
+Released on 10-26-2017 under the John F. Kennedy Assassination Records Collection Act of 1992 (44 USC 2017 Note)
+Doc Ref ID: A42
+
+3. Regarding these three specific requests, inclosed for
+
+ 
+ 
+ 
+
+ 
+    
+
+pore]
+
+68763 an
+See
+
+—
+Serial: woos
+
+your information is a summary of NSA's contacts with Senator
+McGovern's Subcommittee. on International Operations. As indi--
+cated in the summary and as discussed previously with Mr. Andrews
+of your staff, we have not shown nor discussed any material with
+Senator McGovern's staff representative pending the drafting of
+an approved memorandum of understanding by your office and the
+
+execution of such an MOU between the Executive Branch and the
+Senator. : , :
+
+4. In his letter received by NSA on 20-December; Representa-
+tive Louis Stokes, Chairman of the House Select Committee on oN
+Assassinations, requested certain information from NSA relating
+to the Cuban intelligence network during the period 1959 - 1964.
+Chairman Stokes also certified that access to any NSA material
+would be restricted to those staff members with a TOP SECRET.
+security clearance; access to NSA material, of ‘course, requires
+indoctrination for SI as well. No response has been made to
+Chairman Stokes' correspondence pending resolution of how NSA
+should deal with non-oversight committees. Once that decision
+is made, we recommend that any SIGINT information selected for
+the Select Committee on Assassinations be provided only by the ;
+DoD or DCI as part of a larger submission of data and that the i
+SIGINT be properly sanitized.
+
+5. Mr. Ira Nordlicht's 16 December letter to vou vevecvea!
+information from NSA on the flow of oil to South Africa and ¥
+Rhodesia. At the time. of his initial telephone call, Mr. Nordlicht
+had a TOP SECRET clearance. It is our understanding that he has
+since been indoctrinated for SI/TK by DIA. While any SIGINT
+‘pertinent to-Mr. Nordlicht's request may contain unique informa-
+tion, it must be emphasized that SIGINT alone may be incomplete
+
+or misleading unless it is examined in the context of all-source
+intelligence information. .In this instance, .after the execution
+of a suitable MOU, we recommend the requested information be
+furnished by the DCI combining the SIGINT with other materials
+
+“available to him. You may recall that earlier this year the’
+: Senate: Subcommittee on Foreign Economic Policy requested and was
+
+provided information on Arab foreign-investments and the lifting
+and sale of Saudi and Iranian.oil.. This is the information which
+was provided specifically to.Mr. Jerome Levinson, then counsel
+
+of the Subcommittee, and which subsequently formed the basis for
+a 20 June 1977 letter from Senator Frank Church, Chairmam of the
+Subcommittee, to the Secretary of State citing "-...a substantial
+discrepancy between CIA and NSA estimates of Saudi crude oil
+exports in the first quarter of 1977." This charge was repeated
+
+ 
+  
+   
+
+Serial: NOO1S
+
+Hersn appearing
+1977. Mr. Nordlicht
+related to the previous
+
+ 
+ 
+  
+  
+  
+  
+
+J agreed procedure for aealing
+or SIGINT from other than the three tr
+i i has severely ham
+nAgress. W
+
+    
+
+  
+  
+  
+
+nent with both the Senate Foreign
+ttee on Assassina—
+We also recommend
+tokes and Mr. Nordliche
+to Senator McGovern
+structions.
+
+     
+
+B. RA INMAN
+Vice Admiral, U..S. Navy
+
+Director, NSA/Chief, css
+
+op
+
+Incl: ° t
+
+a/s
+
+Copy Furnished:
+Col. Stephen Harrick
+OASD (LA) .
+
+ 
