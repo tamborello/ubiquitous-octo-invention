@@ -1,0 +1,11 @@
+:-MEXICO ROME AVE
+
+fCTOR
+
+DUP, ADDF, C/Ci, C/FI 2, C/wH.5, C/sae 5,
+
+ 
+
+vtleb' City tex rier exit.
+
+ 

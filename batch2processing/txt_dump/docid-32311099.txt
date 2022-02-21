@@ -1,0 +1,926 @@
+ 
+
+ 
+  
+
+ 
+
+[ww 54214" Docra:3
+
+ 
+
+A monthly progress ‘report, due by the first of each month, with the
+
+. first report to be. submitted by 1 March 1964, should be submitted — coe
+| to ARPA by each agency or contractor having tasks as signed ‘to ity
+
+. ARPA will submit a monthly consolidated progress report by the
+- tenth of each month to DDR&E, OST, and USSS,
+
+oe Detailed proposals and firm. cost estimates for the above tasks will
+
+' be sought, with submissions to ARPA by 15 February 1964, of as
+' soon thereafter as possible. Implementation of each task will be
+
+proposed to the’ Director of ARPA by the Project Manager of STAR :
+
+in accordance with established, ARPA ‘procedures,
+
+ 
+
+: a Harry E Tabor :
+: Colonel, USA’ >.
+
+ 
+   
+ 
+
+- Enclosures: : 7
+_ Security Classifications o
+“Second Generation Auto ||
+. RAC Report, 622. :
+- Rand, L-820 dtd 1/13/64
+: IDA Ha 64- 2254 rae
+
+ 
+ 
+      
+ 
+
+ 
+
+ 
+
+ 
+
+1311099 Page '9
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+ 
+
+   
+
+pe oo "PR T STAR - a a
+I v8 CO Security Classifications ie mg
+
+: os At the request of the U.S. Secret Service the following security
+ye ; “guidance has been adopted for Project STAR:
+
+The acronym Project STAR is, itself, unclassified, unless the name
+. is associated with other material which is of a classified nature in ..
+
+‘accordance with following guidance. In this latter case, the higher :
+'* classification involved will apply. :
+
+ 
+
+lo .". " “Written materials should be Confidential or Secret, according to ——.. Es
+' "-. their content, Any written material containing substantive analyses,. : :
+: _ + -data, or recommendations should normally be Secret. Other written
+materials should be Confidential, Nothing in writing which identifies
+the subject matter of the writing with the substance of Project STAR
+should be classified below Confidential,
+
+ 
+
+ 
+
+- Physical items - mock-ups, etc. - other than in written form, which |.
+are not identifiable as being related uniquely to STAR, are to be.
+_ classified according to their own nature, However, if they are-
+_... identifiable by an observer with Project STAR and its purposes, they
+“will normally. be Secret, .
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+. Itis emphasized that all materials which could identify the purposes
+
+.- of Project STAR, and tactics, techniques and device's as well as per-
+‘>. formance data on materials which might be adopted as a consequence of
+
+. the Project are.to be. classified no lower than Secret and protected ona.-
+
+» |. strict need-to-know basis. Furthermore, STAR materials are not re-
+
+. : leaseable to any agericy other than ARPA without-the explicit prior ap-" °-
+“proval of ARPA, ;
+
+ 
+
+  
+
+lacie eee elton hetenntnnemtereat te ir cane nena tte me ttn ete oa toe
+
+ 
+
+In addition to the foregoing guidance, itis "strongly emphasized that yes
+in contacts with people or organizations other than within the Depart-— 4
+os ment of Defense and the U.S. Secret Service, there must be no at- an . ;
+oo ea > > tributable identification of Project STAR with the question of Presidential | -
+i an . ¢:°, security, Project STAR is, as you know, the short title for Security -
+Fo | /Threat Analysis.and Research. As such, it is concerned with threats
+to political figures in general and any mention of its relation to :
+
+Pe ' Presidential security in contacts with people other than from ARPA eG
+|. : a and the United States Secret Service is both needless and prohibited, |
+
+ 
+
+ 
+
+ 
+
+ 
+
+ro, a STAR materials transmitted to ARPA, will be coordinated with the U.S. ‘ i ;
+\  Sécret Service by ARPA and concurrence of the Secret Service will be we
+__-obtainedby. ARPA-before: such materials are. released. to any other agency.
+DOWNGRADED AT 3 YEAR INTHRVALS; |
+1 | DECLASSIFIZD * SFTER 12 YEARS ..
+
+ 
+
+  
+  
+
+ 
+
+Dao | DIR 5200. 10
+
+ ecmencseamnacrararenrmermae
+
+  
+ 
+     
+
+ 
+
+Encl 1 to Progress Report .
+
+ 
+
+  
+
+[94914 -Docld:32311099' Page: 10.
+ 
+
+   
+
+ 
+
+possible, _IDA, -in coordination with the USSS and the USAERDL, )
+
+i, Armor Materials: Conduct an accelerated program ‘to test
+
+_ the effectiveness of transparent and opaque materials now available
+in defeating .30 cal. AP projectiles, grenades, and explosives,
+
+. ; Various combinations and configurations of materials should be
+
+i “. 3, tested at various appropriate degrees of impact obliquity, and results
+
+: "reported, Rigid and flexible materials in shapes and forms suitable
+
+_. for use on automobiles, helicopters, speakers? platforms, and on
+
+‘ment. (Tests to be carried out by Development. and Proof Services,
+
+“Aberdeen Proving Ground in'accordance with test plans to be developed _
+
+by RAC, in coordination with U. S.A. Ballistics Research Lab, U.S.A.
+Materials ‘Research Agency, Bureau of Weapons, AFMT-RTD, and
+Bureau of Standards, Initial report of results of testing of materials
+for models of speakers! platforms and second generation automobiles -
+by. 1 May 1964. Comparative evaluation of results and development
+
+_ of specifications for needed additional research and development by
+
+je Distraction Devices: Develop and evaluate means for dis-
+
+tracting or disrupting an incipient attack by. nonlethal méans, such
+
+ 
+
+Pe oo opaque, Both manually-operated and automatic means are to be con-_
+"|. sidered, Man-portable means which are normally inconspicuous, -
+and means attached to autos or speakers! platforms are desired.
+
+ 
+
+yo, needed additional research and development. (Report by 1 May. 1964
+Pa te be as complete as possible at that time; completion as soon there- :
+mS ~ after as possible, Design of the means, development and technical -
+
+: guidance of the implementation of a test program, and evaluation of .
+. . results, to be accomplished by IDA, in coordination with Bureau of
+ee Weapons and AFMT-RTD. Hardware development and implementa -
+
+ 
+
+ 
+
+contractors, )
+
+ 
+
+_- It will be noted from the foregoing that the remainder of the program
+
+a 7 _ Subsequent to 20 January 1964 consists of two categories of tasks.
+
+Pose" " =" “Biyst, for the transportation and public appearance situations, evalu-
+ate such practicable materiais, techniques and devices as can be de-
+livered to the USSS by 1 September 1964, and prepare specifications
+
+' . ‘for any needed additional research and development, Second, carry
+out longer-term analyses, experiments and developmental work to.
+be completed as soon as. possible. It is expected that useful results
+will be furnished the USSS as rapidly as they can be obtained rather
+than awaiting some fixed date for report submission, . ue, .
+
+e eet ar B . :
+
+7
+
+ 
+
+ 
+
+ 
+
+. ° persons. should receive priority, Furnish quantitative data on results, .
+pot _» | Prepare specifications for any needed additional research and develops -
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+. as light, smoke, and means for rendering normally transparent areas :
+
+oy Furnish quantitative data on results. Prepare specifications for any a
+
+tion of the test program by USAERDL, with assistance of appropriate _
+
+-Copies. .
+
+  
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Security Division in carrying out their personal security responsibil- ..
+ities, Make recommendations for improvements. (To be completed
+_ by 1 May 1964, Rand in coordination with the USSS, )
+
+. (2) From historical data, develop methods and techniques ~ an
+if - "\\ for evaluating the effectiveness of security operations for use by
+| ee \S and the Department of State Security Division in the training of
+
+: their security agents, (Rand in coordination with the USSS, Depart-
+ment of State Security. Division, and others: who may be designated by :
+» ARPA, ) © .
+
+ 
+
+ 
+
+h. Detection Devices:
+
+ 
+     
+
+-tect the approach, i we
+“to 5000 ips in the vicinity..of.the.tarcer. : Separate systems should be =..."
+. éSigned to. be carried inconspicuously by an agent, to be installed on .
+an automobile, and to be installed on rotary and fixed-wing subsonic |
+-aircraft, Priority should be placed on detection of supersonic pro-' ,
+jectiles, In the case of subsonic projectiles, detection of the muzzle
+blast is acceptable. In both cases evaluation and design should elimi- -
+‘nate false alarms to the extent practicable. (Aircraft units to be the
+responsibility of the U.S. Army Limited War Lab, using Thiokol or |
+‘ Bissett- Berman as the contractor, as an extension of an esisting-
+joint Army-ARPA project; the man-carried and automobile units to
+' be the responsibility of the U.S. Army ERDL, using Melpar as a con-
+_-tractor, Work on all of these units should be completed prior to ~-
+1 July 1964, ) -
+
+    
+
+    
+
+ 
+
+   
+
+(2) 2 nuandevaluate. sy '
+‘ete -coussaledizenmee enades ‘Both man-portable and fixed
+. systems, to be utilized inconspicuously at locations which give ac-
+‘cess to the target are desired, It is essential that the false alarm
+“pate be extremely low, Furnish quantitative data on results, Pre-~-
+‘pare specifications for any needed additional research and develop- ©
+“-ment, (To be completed as soon-as possible through parallel efforts
+_by Rand and by the Southwest Research Institute or Melpar under
+_ _USAERDL contract. ) .
+
+        
+
+   
+
+, for detecting iptrusion.~ -. . :
+
+yas the White House grounds, Furnish gj
+Prepare specifications for any needed :
+additional: research and “development, (To be completed as soon as . i
+
+   
+ 
+
+ 
+
+ 
+
+"2K 54214 Docld:32311099 -Page
+ 
+
+ 
+
+ 
+
+QO Se oO —
+1 September 1964, These protective measures are to be the best that .
+can be developed and evaluated in this time-frame, bit it is recognized -
+
+_ that optimum measures will require more lengthy investigations and. he
+. experimentation, | . io
+
+‘The plan of work under: Project STAR subsequent to 20 January 1964 ey
+includes the following tasks: ; Dee bo
+
+ae Second and Subsequent Generation Automobiles: In coordina-
+tion with manufacturers to be designated by the USSS and USATAC, 7
+complete the detailed design of protective measures for two. automobiles”
+
+to be delivered to the USSS by ‘T September. 1964 and provide technical
+
+“advice on their fabrication "ONG DULG te to be, losed, but: with maxi-
+
+mum visibility of the passengers; the other is to be .
+
+_ line, but also have optional means of enclosing t the "pas senger com- we
+
+. partment. Within these limits, the dictates of conventional styling, : |
+
+- and the time available, protective measures listed in Enclosure 2 re
+
+should be incorporated to the extent feasible. (Initial report on 1 March“
+
+1964 on the second generation automobiles to be as complete as possible
+
+‘at that time; modify and update the initial report as the results of the an
+--other tasks under Project STAR become available, RAC.) Sp
+
+   
+
+ 
+ 
+
+be Speakers! Platforms: ‘ alua. n, at~.' +. :
+“ing .30 calibre AP pro jectiles,.prenades,.. Pe ex losives at indoor i. ; ' a . .
+“and outdoor speakers! platforms, These means should be inconspicu- 7 os
+:. “§us and transportable, and should permit rapid placement, we com~- eS "
+. ponent or section should weigh more than 100 pounds. Nonlethal . ; im
+means for distracting or. disrupting an incipient attack, and acoustic . a i
+sensing devices to detect the approach, impact, or passage ofa od
+projectile should be included with platform protection kits. Results ne
+of the other Project STAR tasks listed herein should be applied to. co oa
+. these requirements as those results become available. (An initial :
+‘design and report of its evaluation should be submitted by 1 May.1964.
+. Continuing work should be carried out beyond that date to incorporate
+_» significant improvements in the initial design specifications as progress
+‘on other tasks permits, i”
+
+ 
+
+ce Helicopters:
+
+(1) Analyze t the eosnee of, the helicopters utilized by the
+
+“.. President 3 forattack by .30 calibre AP.
+ammunition, and to asséss per sonnel survivability in a crash,
+
+-““P¥epare Specifications for means such as light weight armor to
+
+reduce the vulnerability of critical areas, Prepare specifications
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+, 54214 DoclId:32311099 Page 5
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+.. . an individual and their performance characteristics, int
+
+ 
+
+‘eo
+
+ 
+
+. “4°
+
+for modifications needed to enhance the pos sibility of Survival of
+persons aboard in a crash, Include an acoustic or to detect the
+impact or passa rt “T964 to be as
+
+“complete as possible of thet ime; continue studies and experiments
+
+to seek significant improvements through 30. June 1965, USATRECOM. )
+
+       
+  
+
+ge of a projectile, (Report by T iN
+
+ 
+
+   
+
+(2) Evaluate the expected performance of the protective
+‘Measures and of the aircraft, and perform a -comparative analysis of the
+vulnerability, survivability, and aircraft performance with and without :
+
+the proposed protective measures, (Complete these tasks on the 1 May .
+
+: - 1964 specifications prior. to 1 July 1964, and on additional improved
+. specifications proposed by USATRECOM as soon as possible, ‘RAC)
+
+ad. Weapons: Identify likel classes of weapons employable by
+
+   
+
+_,. probability against an unprotected human target as a function of range,
+ngle of attack, CEP, and relative speed of the target. Also, identify _
+
+_the penetrating force of likely projectiles as a function of their velocity, -
+weight, shape, angle of incidence, and Structure, and specify in useful. --
+
+terms the forces to be defeated, (Progress report by 1 May 1964; to.
+_ be completed as soon thereafter as possible. RAC, in coordination
+‘with the USA Ballistics Research Lab, )
+e. Situations: Develop and evaluate a methodology for quickly’
+. identifying and assessing the relative significance, in terms of kill
+probability, of vantage points available for the launching of an attack.
+
+olsin typical travel and public appearance situations, (Report on 1 May
+
+ 
+
+ 
+
+ 
+
+ 
+
+| WW 54914
+
+. 1964 to be as complete as possible at that time; task to be completed
+
+“as soon thereafter as possible, RAC in coordination with the USSS. )
+
+f, Persons and Data Processing:
+a RE ete = tocessing:
+
+ 
+   
+
+           
+
+        
+
+and tec al.means for extreme g
+numbers of suspected persons order to identify th some
+E asset aceon LEAL
+
+oo Specified degree of surveillance is.wasmanted:. and to facilitate estab-
+ecurcuaaea aan aa ELE SE EN GENTE one ON z
+
+“lishment and maintenance of the required degree of surveillance by the
+appropriate authorities, (Report on 1'May 1964 to be as complete as -
+
+“possible at that time; task to be completed as soon thereafter as pos-.
+sible, Rand in coordination with the USSS.) , So,
+
+‘ge Procedures: .
+amocedures: ‘
+
+(1) Evaluate procedures for marshalling the security capa-
+bilities of the U, S. in support of the USSS and the Department of State
+
+ 
+
+ 
+
+ 
+
+ 
+
+DocId:32311099 Page 6
+
+ 
+
+ 
+
+ 
+ 
+
+—v
+\
+2
+cp
+
+{ e os :
+f OPTIONAL FORM NO. 10 By ‘5010-106
+ekg SE av tv02 eoition 5 :
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+= ae GSA GEN. REG. NO. 27 oy — : Tolson
+aot UNITED STATES GCX \__XNMENT (J \ =
+Casper
+Memorandum a wee
+* joach
+we/ yh =
+7] MR. We Ce SULLIVAN paTE: February 13, 1964 Posen -
+“xlovel
+
+ 
+
+ 
+
+ 
+
+ 
+
+| A be Sie
+FROM : MR. D. J. BRENNAN, mf V4 “Wes =
+y =
+
+CS OF THE PRESIDENT
+PN accent AA TLS
+
+  
+
+My memorandum January 17, 1964, reported t Kat the § £
+Department of Defense,-in conjunction with industry and the ©
+Secret Service, was attempting to develop technical methods of
+protecting the President. - 3 ae
+
+ee
+
+ar oft ware 4
+Defense O¢partment has now furnished the attached
+| Progress Report on oject Star," which is.‘the jcode_name for
+; this research effo This — report reflects thatreséarch is
+i under way to modify an existing Presidential. Limousine so that
+‘ its armor will stop 30-caliber ball ammunition. «Defense hopes
+to be able :to produce a design for a car by -Septémber 1, 1964,
+which will.be so well armored that it will §top-30-caliber
+; varmor-piercing ammunition.
+* - or
+* ‘Additional research is being carried on to de¥elop*
+a bullet-proof, grenade-proof, and explosive-proof speakers¥.
+K platform for Presidential use. In connection with this, sf
+He ow research is, being done on means ugtpfiistracting or disrupting
+(ae an attack on the President nd Bn Meoustic and elecd ronic 3
+. a devices which will détéét the approach of any- prosegiite :
+SS toward the President. et: eye! SY oHa
+{
+a
+
+ 
+
+i
+
+The helicopters teed: by the President are to. be
+armored, and research is being conducted to make them safer.
+
+ao Ae |
+“ACTION: os RAY
+
+; For information. We will continue to follow this
+matter with Defense and Secret Service.
+
+Enclosure
+
+Bay ; hke 2 SURE
+
+  
+    
+ 
+
+‘ef
+
+“M99
+
+beri Belmont
+
+ihr Conrad gEL oe yd “
+1-Mr. Sullivan {
+1-Mr 9 Halley ey
+lie? Bartlett. 42
+‘Topisieon *
+
+1-Mr. Wells
+
+ 
+
+ 
+
+ 
+
+HW
+
+-§4214 Docld:32311099 Page 2
+ 
+
+ 
+
+ 
+
+JFK Assassination System Date: 4/14/201
+
+Identification Form =~
+
+Oe  —  —  ———Y—
+
+Agency Information
+
+Released under the John
+
+ 
+
+ 
+
+AGENCY: FBI . » Kennedy
+RECORD NUMBER: = 124-10311-10121 Assassination Records
+ollection Act of 1992
+RECORD SERIES : HQ (44 05¢ 2107 Note).
+: ases#: Nl 54214 Date:
+AGENCY FILENUMBER: —62-27799-464 po ore2o1"
+Document Information
+“ORIGINATOR: FBI -
+FROM: BRENNAN, D. J. JR.
+TO: SULLIVAN, D. J.
+TITLE:
+DATE: 02/13/1964
+‘PAGES: 11
+SUBJECTS :
+USSS
+DOCUMENT TYPE: PAPER, TEXTUAL DOCUMENT
+CLASSIFICATION: — Secret
+RESTRICTIONS: — Consulted
+CURRENT STATUS: — Redact
+DATE OF LASTREVIEW: — 11/26/1997
+OPENING CRITERIA: APPROVAL OF DOD
+i . ~
+COMMENTS: INC 3 RPT, REFERRED TO DOD °
+
+v9.1
+
+AW 54214 DocId: 32311099
+
+Page 1
+ 
+
+ 
+
+ 
+
+ 
+
+PROJECT STAR... we
+PROJECT STAR.
+
+SECURITY THREAT ANALYSIS AND RESEARCH
+' Progress Report .
+
+; 12. December 1963: - 20 January 1964
+
+I . * sot .
+
+7 a : “In early December 1963, elements of the Department of Defense
+
+pee . initiated a research and development program in support of efforts
+
+i oe ', to reduce the vulnerability of important political persons to assas-
+
+4 oo ,. ,Sination, This action was the result of arrangements made by the
+
+i : U.S. Secret Service (USSS), the Director of the Office of Science. may
+i oe and Technology (OST), the Director of Defense Research and Engineer-.
+
+: : ing (ODDR&E), and the’Director of the Advanced Research Projects
+
+Agency (ARPA).- . : : :
+
+ 
+
+‘The principal tasks are:
+_ to defea Q ipre
+
+    
+    
+   
+ 
+ 
+
+tial analysis |
+a survey of possible
+
+o"be completed by 15 January 1964; _
+
+ 
+
+a - 1 May 1964, and completion by 30 June 1965. The first task'is re-
+ferred to as the "quick-fix automobile, ' while the remaining tasks ;
+-. are identified as Project STAR, — - oo - oO : ue
+
+sy
+
+ 
+
+. Quick-Fix Automobile:
+
+©. Under the direction of representatives of Dr. E, G, Fubini, ‘ODDRE&E;- a
+"a group of people was.assembled from ballistics and materials organ- © wo
+izations in ODDR&E, ARPA, Army, Navy ard Air Force, to design 9
+and specify modifications for the "quick-fix automobile." A mock-up (9) 7c:
+of. the modified auto was prepared by Hess and Eisenhardt of Cincinnati.
+[ee was approved by the USSS, and ODDR&E representatives on 30
+
+December 1963. ;
+
+   
+
+ 
+
+ 
+
+Armor materials are being tested by-the U.S, Army’ Development and © an
+- Proof Services (DPS) at Aberdeen Proving Ground in:accordance with 7 : ee
+a test plan developed by the U.S. Army Tank’ and Automotive Center Doe
+' (ATAC) and the U.S. ‘Army. Materials Research Agency (AMRA). This ~
+
+   
+
+ 
+
+ 
+ 
+
+ 
+
+. work has been funded by the U.S, Army and ARPA, Transparent armor . a
+"materials are being provided by PittsburghPlate Glass. es
+
+The Ford Motor Company and Hess and Eisenhardt are incorporating eo
+
+the approved modifications in the existing limousine. At this time : :
+. (20 January 1964) work on the quick-fix auto is on schedule. A more oe . ws
+: _ difficult phase of this task - namely, thé molding of curved transparent | ‘
+armor sections - has been reached and some difficulties are expected: | Sg
+
+although no serious delays are anticipated. ‘Detailed specifications for. |
+the quick-fix auto are in the hands of the usss - ed .
+Q . a ; ; . TET . . : Ce
+
+ 
+
+ 
+
+, Project STAR:
+
+‘Project STAR - the remaining three tasks listed earlier -.is under the
+
+: direction of representatives of Dr. R. L. Sproull, Director of ARPA,
+
+. Members of ODDR&E, USATAC, USAMRA, USADPS, USARO, the .
+
+’ Bureau of Naval Weapons, U.S.Air Force, USSS, CIA, State Department
+Security. Office, and the FBI have participated with ARPA in STAR,
+‘However, responsibility for any shortcomings in the work thus far rests
+. solely with the undersigned,
+
+ 
+
+oy
+
+ 
+
+Security clas sification instructions under which Project STAR is operating :
+at the request of the Secret Service are contained in Enclosure 1, :
+
+- Preliminary design specifications for.the second-generation auto have
+“been developed by the Research Analysis Corporation (RAC) and were
+given to the USSS on 15 January 1964, Preliminary analyses of securi-- ;
+. ty threat ‘characteristics and possible countermeasures have been com- 3. 8
+_. pleted by RAC, Rand and IDA, and were sent to the USSS on 20 January a
+-:+, 1964, Details are contained in reports designated RAC-622,1, Rand
+L-820, and IDA Hq 64-2254, (Copies are attached as Enclosures 3, 4&5). :
+_ ‘These deal, respectively, with scheduled transportation situations, ,
+a scheduled public appearances, and nonscheduled public appearances.
+
+ 
+
+   
+
+ 
+
+ 
+
+“These reports contain preliminary assessments of threat character- ~ ../-- J
+_ istics and tentative suggestions for countermeasures. They identify - 7 :
+"some countermeasures which could be implemented immediately.
+
+But they principally serve to identify areas which warrant detailed
+study and investigation. Among these are some which should be com-
+'-pleted insofar as possible by about 1 May 1964 in an effort to establish |
+‘detailed quantitative specifications for materials, techniques, and
+
+devices: to. be incorporated in vehicles and speakers’ stands prior to -
+
+Ba
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- AW 54214 DocTd:32311099 Page 4

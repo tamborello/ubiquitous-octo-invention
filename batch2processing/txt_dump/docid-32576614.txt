@@ -1,0 +1,421 @@
+ 
+
+ 
+
+e. Test the continuity of the target telephone service and, if |
+satisfactory, transfer the drop wire serving the target instrument from
+Binding Post 8 to the pair described in b.
+
+Complete wiring diagrams and detailed installation procedures
+will accompany the equipment.
+
+The ability to install either of the above-described techniques is
+contingent upon the substitution of an altered instrument in the target area
+and making certain chang he terminal box at the rear of 906 South 8th
+Street. The BIRD will require a full-time "quiet" battery supply from the —
+telephone and the installation of a recovery unit at the working appearance for
+the target instrument. The ZAM will require no change in the telephone
+pattery source but. will needa small secure area in which the automatic.
+SPMT equipment may be concealed. It is not necessary that this SPMT
+equipment be in the immediate area of the target instrument, The only
+change required at the working appearance for the target instrument is to”
+shift the drop wire from the assigned Binding Post to a new Binding Post
+described in 2b.
+
+  
+
+ 
+
+  
+
+Another factor to consider in this case is the matter of readable
+signal. The MISUR signal between the and the recovery unit is not
+readable with headphones or a linesman's test set whereas the signal level
+of the ZAM is readable with headphones or a linesman's test set.
+
+ 
+
+ 
+
+ 
+
+HW 45839 DocId:32576614 Page 5
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+‘March 9, 1965
+
+ 
+
+installation tochiiques 8 are Topsites for your ‘consideration.
+
+4. BIRD. This anit employs the same principle as the. BAT
+
+described « on page 27, Part 4, of the Handbook of Technical Equipment. :
+
+  
+ 
+ 
+
+The mal Pophione unit is ‘small sotene to be concealed w wit is the network of
+
+ 
+ 
+  
+
+noua not ‘affect normal it telapfone operations”
+this device, you should eeheck Wath your sources
+
+central office ‘tine equipment, " paxtticularty: to determine whether it will be
+reported by the automatic line«checking (tésting) equipment.
+
+‘As with the BAT, the: intelligence picked tip by the. microphone
+cannot be. heard by use of a Haesman's test set cr with ordinary headphones.
+Relatively eomplex equipment is required to recover the intelligence.
+
+. . Phe recovery equipment : is. in. a cylinder measuring 1" in dianieter
+and 15"Jong. This e ent should bem an ‘on the pole or along the cable
+in-the rear of 906 | Sth Street. The i@phone line should loop
+through the recov: ‘unit by- connecting. a: pair of Wires from this unit to
+
+ 
+         
+
+- Binding Post 8 and another pair of wires from this unit to the drop line
+
+  
+
+serving the target instrument. A third paiy of wires from the recovery
+‘unit should be. connected to the leased Nine back to the central monitoring
+point. The microphone: covérage | (signal) is audible between thé recovery
+unit, and the monitoring plant and can be read with 4 pair of headphones or
+a linesman's test set.
+
+gccegun _ Ad %
+
+Gad 4
+
+ 
+
+ 
+
+ 
+
+HW 45839
+
+DocId:32576614 Page 2
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ala” a . . as
+- Fy tae, 2) c
+£ : ‘ o>.
+
+SAC, Philadelphia (92-1027 Sub F). . March 9, 196
+Director, FBI (92-6054) JUNE or |
+
+6
+
+ 
+
+LA COSANOSTRA
+_ PHELADELPHIA DIVISION -
+AR; CONSPIRACY =.
+
+. ReBulet 2/11/64 and telephone call from Supervisor Dave Breen
+and SA John R. Pearce, of your office, in captioned matter. The telephone
+cable information, previously supplied, .and technical data telephonically
+
+: furnished kave been reviewed in the Laboratory. The Laboratory's technical
+observations are attached for study by the sound-trained personnel of your = -~
+office. ne se oe
+
+You'should, after a review of the attached by your sound-trained
+
+_ Agents, advise the Bureau the technique you propose to install in the target
+area, The telephone instrument you desire altered should be sent to the
+Laboratory for installation of the disguised MISUR equipment. In scheduling
+the installation date, a minimum of three weeks, after receipt of the equip-
+ment in the Laboratory should be allowed for the packaging of the line e
+equipment and altering the instrument, :
+
+ 
+
+Hf, in your opinion, you feel on-the-spot technical assistance of
+the Laboratory is needed, you should so indicate in your reply.
+
+This technical data is for use by your office in evaluating the
+installation possibilities ‘in this case and dees not constitute authority to
+make. the installation, Authority to install must be obtained separately.
+
+Enc. (2) vas
+oan REC. Ig qa b Pyesay Th
+° A: et TO '
+{ Seles ee :
+
+ret enmetentO
+
+ 
+
+| Telson
+Belmont
+Mohr
+DeLoach
+Casper
+Callahan
+Conrad
+
+as MAR LL 1965 ;
+
+ 
+
+ 
+
+- he PMA eT te] — oe
+Re WAR-91965;
+
+. ca Mi-Fal
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+  
+  
+
+“Sullivan
+, Tavel
+‘Urotter
+
+ 
+
+ 
+
+ 
+
+r ‘Tele. Room £ a .
+| og WEAR 1026
+
+ 
+
+By
+veLeType unit L_]
+
+ 
+
+i
+
+ 
+
+ 
+
+ 
+
+ 
+
+aden =
+pe 45639 Docld:32576614 Page 1
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A Regulated Power ‘Supply will be connected to the leased line
+in the monitoring plant to furnish operating current for the recovery unit
+-yeamplify the MISUR signal. The transmission range for the output
+the vecovery unit should be no more than five wire miles. If the trans~
+
+ 
+  
+
+mission : vange exceeds this limit, it may be necessary to install the
+
+preamplifier at a multiple point, suchas at the corner of South 6th Street
+and Washington Avenue, If the'multiple point is used, provision must be made
+for the installation of a Regulat ad Power Supply in. a secure place. accessible
+
+     
+
+power supply. A second leased | ine | for transmitting the output
+from the Regulated Power Supply pack to the monitoring plant.
+
+. In summary, if the mukiple appearance is used for this
+installation, one paix of wires must be reserved or leased to provide a
+transmission path from the recovéry unit to the multiple appearance and 4
+second leased pair is used for trangmission of the preamplified signal output
+of thé Regulated Power Supply te the field office monitoring plant. ;
+
+ 
+
+  
+ 
+
+2 Zener Activated Microphone (ZAM). This technique employs
+the same instal tion principle as the Single-Pair Microphone-Télephone
+(SPMT) technique described on page 181, Part I of the Handbook of Technical
+
+Equipment. A ZAM unit may be ‘installed in the network of a Western Electric ‘
+500-type telephone set instead of the altered condenser can described in the
+manual. . ;
+
+if this: technique i is employed, a secure area, either in close
+
+proximity to the terminal box in. the rear of 906 South 8th or at the multiple
+
+appearance at Washington Avenue and South 8th Street, where the target
+telephone line can be looped through a concealed automatic SPMT unit.
+The automatic SPMT whit is contained in four cases as follows: .
+
+A. An SPMT switching unit measuring 7 5/8" wide, 8 1/4" high
+and 10" deep. This unit automatically transfers the target line from "Telephone"
+to "Microphone" immediately when the hand piece is removed from the cradle.
+Approximately 7. 5 seconds after the hand piece is restored to the cradle
+(hung up) this unit will automatically switch to the "Microphone" mode for
+-MISUR coverage, Because this unit is position sensitive it Should be operated
+in-the vertical position at ail times.
+
+  
+
+BOA pattery supply measuring.6" wide, 4 3/8" high and 5" deep
+contains the batteriés.to operate the microphone, current regulating
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+HW 45839
+
+DocId:32576614 Page 3
+ 
+
+ 
+
+ 
+
+ 
+
+Be
+
+_ secure reom
+
+devices to prevent excessive current damaging the microphone and a meter
+to measure microphone current. It is recommended that the batteries in
+this unit be replaced with fresh batteries no less than once each a week,
+
+‘The SPMT unit must be in the "OFF" mode while the batteries are being
+changed.
+
+- €. Remote control tone switching unit.. This mit, ina case
+measuring 7" wide, 5 3/4" high and 15" deep, is used to turn the SPMT unit
+on and off, Included nis unit is a transistorized audio amplifier to bring
+the MISUR signal up to the normal telephone line transmission level.
+
+ 
+ 
+
+D. Notch filter, This unit measures 3 3/4" wide, 5 3/4" high
+and 5 1/4" deep. This is used to prevent certain voice : frequencies from
+activating the tone equipment described in G
+
+The equipment, described in AsD, above, must be placed in a
+
+‘ space whei'e the target line may be looped through the SPMT
+uit, A 110«volt source at 3 amperes must be available for the equipment.
+The equipment should be placed in ‘a dust-free enclosure accessible for
+servicing.
+
+ 
+
+The steps for installing this technique are as follows:
+
+4. Substitute an altered telephone for the instrument now in the
+target area.
+
+b. Have a spare. ¢ cable pair available for sétvice from the remote
+plant to the terminal pox in the rear of 906 South 8th Street. If a.secure area
+‘ig Selected in close proximity to 906 South 8th Street, it will not be necessary
+te provide a cable pair for service between the SPMT unit and the target line
+aa the target line may be looped through the sfmt unit vid a four-conductor
+drop line,
+
+ 
+
+ 
+
+; ¢. Set.up the remote plant, as set forth above, looping the target
+line from Binding Post 7 at 8th Street and. Washington Avenue, through the
+SPMT equipment to the spare cable pair terminating in the rear of 906 South
+8th Street,
+
+ 
+
+d, Gonnect the cable pair running to the monitoring plant to the
+‘output of the automatic SPMT unit..
+
+a3 «
+
+ 
+
+HW 45839
+
+ 
+
+ 
+
+ 
+
+ 
+
+DocId:32576614 Page 4

@@ -1,0 +1,400 @@
+ 
+
+ 
+
+ation. Reco
+
+ses:in
+
+Absas
+
+Kennedy.
+
+ 
+
+ds, Collection Act’ of 1992 (44. USC. 2107 Hpte).
+
+eor
+
+APAC-LTORS SHOULD BE AS:
+0, MITE. AS: POSSIBL st
+
+ 
+
+QOSHE.
+
+Soukn
+
+ 
+
+uPPLy:
+
+ 
+
+ching Pony
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EeULATED <~
+
+ 
+
+ 
+
+ 
+
+32287039 Page 5
+
+DoclId
+
+ 
+ 
+
+' Released under the John F. Kennedy Assassination Records Collection Act of 1992 (44 USC 2107 Hote).
+© PATE ds 714-2017
+
+¥ > o :
+‘ A ue “ °
+
+ 
+
+ 
+
+eae, Cale Se (92-350-B) ~~" ‘August 28, 1962
+wo a,
+a
+we Director, FBI (62.8 ofa) aa ne 2 # 7 JUNE
+TOP HOODLUM PROGRAM
+CHICAGO DIVISION
+
+ 
+     
+
+CG 6486-C* ALL IEES
+
+ 
+
+SSIFIRE
+Reurlet 6-20-62.
+
+Referenced letter requested advice of the FBI Laboratory
+concerning use of a simplex circuit to enable operation of two
+MITES on a selective basis over the same telephone line.
+
+A simplex circuit can be used with a polar relay for the
+control of two MITES. Circuit for this is the same as that
+appearing as Figure 6, page 35, of the Handbook of Technical
+Equipment, except that the transformers are omitted and the
+circuit is established through one side of the line to ground. ~ -
+. Experience has shown that the unbalanced condition created by
+establishment of a control circuit in this manner may introduce
+noise into the microphone line.
+
+Switching of two MITES on one line can be more easily
+accomplished by the use of diodes which are smaller than the
+polar relay and much more easily concealed. There is attached
+a diagram showing method of using diodes. It is recommended
+that this circuit be utilized im preference te the simplex circuit
+as it is simpler to install and will not introduce noise into the
+microphone line.
+
+aS)
+
+fi
+
+a y:
+
+Pa
+
+-
+%
+aes
+oS
+oxy
+a
+
+ 
+
+CLASSIFIED
+
+BY St tte Ld IKs &
+Enclosure DECLAS: SEY GLE .
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3
+te
+i=]
+d
+
+-[80-791 i $) i
+, a
+RAM:cf (10) °
+olson g
+Belmont le
+hy
+pies a 8
+Conrad 2
+DeLoach ” F
+ee e~ 3
+Rosen ‘e 0 pe i ™
+Sullivan i
+Tavel ra ot
+
+ 
+
+ 
+
+‘Trotter 5
+Tele. Room
+Holmes
+
+ 
+
+ 
+
+  
+
+DEGR
+
+ 
+
+ 
+
+ 
+
+TELETYPE UNIT |
+
+Gandy MAIL. ROOM ELE E
+a
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+; Docld:32287039 Page 2
+ 
+
+Released under the John F. Kennedy Assassination Records Collection Act of 1992 (44 USC 2107 Hote).
+' DATE: 11-14-2017
+
+ 
+
+ 
+
+JFK Assassination System Date: 4/27/201
+Identification Form
+Agency Information
+AGENCY: FBI
+RECORD NUMBER: = 124-10196-10315
+RECORD SERIES: HQ JUNE MAIL
+AGENCY FILENUMBER:  62-9-9-1059
+Document Information
+ORIGINATOR: FBI
+FROM: SAC, CG
+- TO: DIRECTOR, FBI
+TITLE:
+DATE: 08/20/1962
+PAGES: 4
+‘SUBJECTS :
+: THP, TESUR, BUSS, ACT
+DOCUMENT TYPE: PAPER, TEXTUAL DOCUMENT
+CLASSIFICATION: Secret
+RESTRICTIONS: — 1B; 1C
+CURRENT STATUS: — Redact
+DATE OF LASTREVIEW: — 11/16/1998
+OPENING CRITERIA: © INDEFINITE
+COMMENTS : INC RESPONSE MEMO
+
+v9.1
+DoclId:32287039 Page 1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SSeS
+ 
+
+ 
+
+ 
+
+[Released under the John F. Kennedy Assassination Records Collection Act of 1992 (44 USC 2107 Hote).
+“DATE: 41714-2017 -
+: OPTIONAL. FORM NO. 10 = aN
+UNITED STATES co icanannet ~ .
+)
+Memorandum |
+TO + DIRECTOR, FBI DATE: 8/20/62
+; . ATTN: | FBI LABORATORY
+ROM : SAC, CHICAGO (92~350 Sub E) ELECTRICAL SECTION
+SUBJECT: Q
+JECT: "FOP HOODLUM PROGRAM JUNE
+CHICAGO DIVISION
+CG 6486-C*
+At the present time Chicago is operating a MITE
+approximately 14 miles distant from the Consolidated Plant.
+
+Only one trunk line is available for this installation, but ,
+it would be highly desirable to locate a second MITE in an
+adjacent room and be able to select that MITE which is most
+productive at the time. .
+
+ 
+  
+  
+   
+ 
+   
+
+. It is pointed out that some line noise though not
+objectionable is prevalent in the circuit due to the distance
+involved and it would be highly undesirable to add to this
+noise rati6..
+
+. The Laboratory is requested to advise if a Simplex
+circuit could be utilized to select one of two audio circuits
+where MITEs are utilized. If so, how can damage to these
+units be avoided? If a Simplex circuit’can be utilized in
+the aforementioned installation, the Laboratory is requested
+to furnish a detailed schematic outline along with any helpful
+observations as it is pointed out the Chicago Division has
+not utilized Simplex circuitry to date.
+
+re: dat. Pleo sec.
+
+- Bureau (RM)
+- Chicago
+1+134-44__
+
+PYORUVAGBA
+ia)
+
+ae
+ETS. padice
+
+GE GS #5 20 4H LES
+
+HeveiAnl
+
+ 
+
+ 
+
+ 
+
+ 
+
+| Docld:32267039 Page 3
+ 
+
+ 
+
+ 
+
+“Released under the. John £.. Kennedy Assassination: Records Collection Act, of 1992 (44 USC 2107 Hote).
+
+~20
+
+11-1:
+
+‘DATE:
+
+ 
+
+ 
+
+ 
+
+"THESE ITEM$ SHOULD BE:
+
+ 
+
+ 
+
+ 
+
+HUGHES DIODE’
+-HD6006
+HOR’ THIS (END -
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+ 
+
+{ os. | REeucare
+: - POWER SUPPLY.
+
+ 
+
+ 
+
+ 
+
+“TO BE MONITORED.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+| Docld: 32267039 Page 4

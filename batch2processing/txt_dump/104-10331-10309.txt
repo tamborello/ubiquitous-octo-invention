@@ -1,0 +1,101 @@
+ce;
+
+Concern 4: Carriage returns in the Comments field
+
+CONFIDENTIAL . -
+
+interpretation of what the electronic data is to the hard copy, eg, what the
+
+“referred” marking means, It seems that the providing of the interim
+
+IdAids for these documents in the process of coordination may have
+
+complicated the issue. {A clear case of too much openness!) The
+
+difficulty also may be NARAs since we presumed that the provided =~
+
+documents would be inter-filed in the basic file, - a
+
+Recommendation: Reprogram to take out the “referred markings. Barry
+tells me that the coordination is almost completed and by the time that the
+Board gets ready to lock at documents the “trailing” coordinations will be
+complete.
+
+- Re ans Ww % clogs. “wP
+Mr. Marwall is concerned that these superfluous digital marks would *
+
+complicate NARA’s life. The carriage returns are a natural input reaction
+in the typing of narrative text in the Comments field.
+
+Recommendation: Program to remove the carriage returns when thay 4
+occur in the Comments field. :
+
+CONFIDENTIAL
+104-10331-10309
+
+ 
+
+CONFIDENTIAL
+we F
+NOTE FOR: John F. Pereira @ DA
+FROM:
+DATE: 02/20/95 11:33:42 AM
+SUBJECT: {dAids
+
+. ca
+As you may remember the Beard, ie, David Marwell, teok issue on several counts with the Id Aids and the disks that we
+recently provided. Their concerns, 4.in number, and my recommendations te remedy those concerns are listed below. Some of their
+concerns can be relieved, some may not. The larger issue is the amount of resources that may be needed to make the kinds of
+adjustments they require. Initially we are talking about the 11 Oswald boxes. The-remainder of the file will be harder to adjust ‘because
+of the large amount of documents/idAids, because the file is not in its original form (3rd Agency, HSCA) and because the audit is not
+completed (IdAids matched to documents in file). There is also the lurking possibility that to provide t the missing data we may be forced to
+access the file data manually. .
+Concern 1: Classification Status
+
+The original classification status of the document was not provided on the =" .
+idAid. This issue is not a new one, it has been discussed before with . NARA. Fick data recorded on
+the Id Aid reflects the fratus of the IdAid andfor the version of the document currently at NARA-- namely
+all are =
+
+Unclassified. The data is in. our file, however, since it was not a required : ~
+
+field at input there may be instances where the field is blank. dows Le ra “"
+
+: cost panini dsl
+
+Recommendation: Have(Cyndé query for blanks in the field to determine
+if there are a lot of blanks and, if the numbers are right, make the program
+change. If the numbers are not right, ie, large number of blanks in this
+field, we need to regroup.
+
+Concern 2: Non Matching Hard Copy IdAid and Digital Id Aid
+Mr. Marwoll produced 2 versions of the same index record - 1 from the »
+hard copy (Aid collection we provided and one from the disks we
+provided. | have talked to(Cynde\phout this and she has checked the ?
+program and firmly believes it to be impossible to have 2 versions of the
+same record. | will talk toJim’on Tuesday but | view this as a human
+error. | will also call NARA and ask them to, pull this record for
+compatison. My searches have produced no duplicates.
+
+Recommendation: Talk to Mr. Marwell again to find out exactly how he
+found the duplicate record and if more were discovered. Depending on
+his reply | would suggest that this be categorized as a human error.
+
+Concern 3: “Referred ” Documents having a classification status
+In his manipulation of the disk data Mr. Marwell discovered numerous
+instances where a document was marked for referral{coordination and
+_ also carried a classification status, eg, RIF, SAN, DIF. He reasons that if
+a document i is referred it should carry a "P" for Pend ing in the
+i ation status field. (Cynde informs me that the program inserts a
+= : king when the document originator is anything but CIA. This
+marking W was as not t inserted by the indes dexers but by the program. The theory
+being that if the document was not CIA it was/is coordinated. [t was also
+reasoned that if/when the document had completed its coordination run it
+‘was provided ta NARA with an appropriate IdAid. The original August
+release included IdAids for those documents pending coordination - the
+\dAids appropriately stamped with “Pending Coordination” - but no
+documents were attached, The difficulty here is a difference in
+
+   
+
+CONFIDENTIAL

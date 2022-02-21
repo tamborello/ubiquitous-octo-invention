@@ -1,0 +1,384 @@
+ 
+
+CONFIDENTIAL
+
+eet aS ioe erent
+Tee NTR tee tae Co Rime ob
+
+  
+
+available to unauthorized porsoms throuch "cenpresi ing enanatlons."
+For a thoroush ovalim.ton, it ray bo Ruceusary, if tha White Eouse desires,
+to request NSA to monitor White House communications on a saspling basis
+
+and advisa the White House of the results.
+
+wen
+
+On tha ratter of clandustina listonin: devices, the XSc Special Comittee
+on Techateal Surveillance Countermeasures should te charged with assessing
+the adequacy of the Secret Service rrocedures, equigrent and level of
+technical skill, and recommonding any changes necessary to attain the
+highest practicable level of porforsance.
+
+We believa the Sacrat Service has the rosponsibility for protecting tha
+Presidential estabiishront against clandestine devices since thoy support
+the Bureau on request. Thoy are not members of tha comittea and, so
+
+far as we can deteraine, they do not receive comsittee reports nor do they
+contriduta information to the committee. As a continuing mattor, they
+should be made a mexver of the coraittee.
+
+Recom-eriad action:
+
+i. That Mr. Bunty issue a. NSAM providing that the Sacratary of
+Defense, as Executive Ago:.. for all communications ccsurity matters, will
+direct N34 to conduct a survey and make a report on tho adaquacy of presont
+commumications security measures in effect at the Waite House, including
+
+non-crypto cennunications.
+
+ 
+
+2, That Mer. Bunly arrange through the "sc Special Cormittsa on
+Technicsi Surveillance Countermeasures to s iew and report on
+
+ 
+
+ea a cavi
+maasures in effect at the white Housa to maintain surveillance and protoc-
+tion against clandestine listeniny devices.
+
+ 
+
+ 
+
+3. That both sagzorta ba reviewed by the Picsicent's Committee on the
+Warren Re> sort, augrenied by Br, Hornig and General o'Conn
+advice and 3 recormendation to the President.
+
+    
+
+ 
+
+CONFIDENTIAL
+ 
+
+ 
+
+j :
+|
+|
+|
+|
+
+  
+
+2
+
+Ce Advised that NSA “shall oct for the Executive Agent in all
+COMSEC matters set forth below" - primarily responsibilities for estab-
+lishing adequate standards;
+
+da. Defined COMSEC as “the protection resulting from all measures
+designed to deny to unauthorized persons information of value which aight
+be derived fron the possession and study of telecamunications, or to
+mislead unauthorized persons 4a their interpretation of the results of
+suth a etudy";
+
+e. Defined telecommunications as “any transmissions, emission or
+reception of sign, signals, writing, images and sounds or intelligence
+of eny nature by wire, radio, visual or other electromagnetic system".
+
+NSA prescribes Governvent-wide standards for the eans of encryption «
+equipments, codes or other techniques - and only those approved by NSA
+may be used for the encryption of classified information. NSA also
+develops equipsents where requined. COMYSEC equipments are available
+today to encrypt ali standerd coscmnications methods - telephones,
+veletypewriter, high-speed data, television (bleck ani white only), even
+conputex~to-computer transmissions.
+
+However, NSA has no authority to require encryption; the requirement for
+encryption is left to the agency head under the EO 10501. Moreover, they
+are positively prohibited from monitoring telecomnmunications to deteraine
+whether classified information is being revealed unlees the agency head
+concerned approves in advances
+
+To dute, there are no known telecommunications techniques which would
+Permit unencrypted (clear) information to be transmitted sare fron inter~
+ception and fron being read by unauthorized persons. As a result, the
+
+U. S. COMSEC Board and NSA make the assumption that all unencrypted tele-
+communications are being monitored and that the information ocing trans-
+mitted Is compromised. While this is a physical inpossibility, there can
+be no assurance that any particular transmission is not being intercepted
+and read. ‘Therefore, liSA will assuze no responsibility for the security
+of communications which are not encrypted in an aprroved cryptosysten.
+
+The White House Communications Agency (WECA) is responsible for, providing
+ell telecomunications for the President und tv the white House, except
+for cocmunications to and froa the President's aircraft (Air Force I),
+which are tke responsibility of the Air Force. WSCA is organizationally
+under the Defense Communications Agency (DCA). ‘he WECA program has not
+been reviewed by the Bureau. Kenneth O'Donnell provides policy guidance
+to the WHCA and has informed the DCA that no information on the size,
+program, Or budget of the WHCA is to be revealed without his authority.
+
+ 
+
+CONFIDENTIAL
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+   
+   
+     
+
+ 
+
+ 
+
+  
+
+  
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+
+7 4
+'
+. S.rg
+- ae . . ~~ = = = Sites thesendemmenneen |
+. “ i
+. 2 Fae
+ir en Security of Sisscivies ev gonsitive Inte tion .
+interration ts normally provided -
+the rrevention of access to the .
+eclied 1, .
+_ ist throu an Spite’ wars:
+i
+at
+ac ant nation, .
+i 2.83 tec al
+< nierophor
+ee > pais one tO zisten
+'
+’ .
+’
+yotntu, cotonsa,
+.
+
+ 
+
+TIGA TION ANO/OR.
+HECLASSIAC CAT ate CUME
+
+: CONFIDENTIAL ERECT
+
+ 
+ 
+
+  
+
+ 
+
+3
+
+There is a very close vorking relationship betwen WHCA and NSA on all
+aspects of COSSEC, including possible “ccaprocising emanatic:s” as
+discussed belov. However, WHICA has an inpossible task in attexnpting to
+provide eccure coxmmunicetiqns for the President so long as he uses the
+comercial telephone systema. Unless WECA can be informed of the specific
+locations and people to whom the President wishes to talk about sensitive
+or classified information, there can be no assurance that the conversations
+are not heing mivitered. However, if reconi communications (teletype
+
+are involved, crypto-equipment can be quickly brought to the locations
+where a teletype capability exists. Crypto-cquipnents cannot now be
+installed for secure volce transnissious over the comercial telephone
+
+systene
+
+Conpronising Ezanations .
+
+The above describes the traditional CO-SEC problem where there is little
+relationship to the “physical security" problen, except insofar as
+physical security is required for the cryptographic equipseat. In addi-
+tion and nore ‘closely interrelated with the physical cecurity prodlen is
+the problen of “compromising emanations" or radiation. Briefly, these
+
+are electrical or acoustic signals emanating from electronic snd electro-
+mechanical equipzents.. If. these. signals cun be intercepted, it is possible
+to read the information teing processed by the equipment.
+
+To protect against this denger, the U. S. CONSSC Board has approved
+(with concurrence by all concerned agencies including the Bureau) NSA
+electrical standards for all electronic or electro-mechenical equips
+
+ 
+
+equipments is Fesponsible for insuring that their eguiments meet
+the standard.
+
+A special subcamnittee of the USCSS monitors this program and provides
+guidance acd assistance to the cencerned agencies. As might be expected,
+new offensive techniques are constantly being discovered which require
+additional defensive precsutions. It is in this field that the line
+vetween communications security end physical security get Pussy.
+
+Physical Security
+
+The term “physical security" has traditionally been ussociuied with safes,
+guards, ana fences. However, with the adveat of sophisticated elzetronic
+eavesdropping tecanigues, most agencies have expanced the Rhysical security
+role to provide protection against. unauthorized access to classified or
+eensitive information either by people or by devices. "!"°
+awareness of the threat posed by clandestine listening cev..-
+in Decerber 1953, established a Special Corrivize oa Teciuical Surveillance
+
+ 
+
+ 
+ 
+
+CONFIDENTIAL
+
+4
+
+      
+
+Soumiormescares. hic Comitice, contosed of repevcenteiives ov State,
+c3 and cach Cerrice), tu, = aarged vith,
+
+ 
+
+taiy und review oF the Gonestic end foreimm threct to tae
+cusiiy 02 classifies defens: infernition" presented ty the “installation
+operation of clundestine technical surveiliance devices" in Us S.
+
+Goverment Zecilities or quarters.
+
+Be
+
+be Ectublishing und coordinating policies with respect to counteriag
+
+  
+   
+
+& &t& least noathly and cubrits annual reports to the NSC
+
+end findinzce. Ther: is a clos: relationship tetween
+and the Ultie comnitice oa ceapre:ising emunaticas - in
+‘unter of incivicucis wao sit on tota.
+
+ 
+
+Out tactisteat surveillance
+
+    
+ 
+
+tle for carrying out
+Tusstions Latever cO.2%% policy guidelines are established by the
+xc couaitte reining, cquifceat to be used, ete.)
+
+xo saad Stine ceviers of say sind huve teen diccoverce in the U. S.
+ash Over 100 were atccoverud in U. £. Scedlitics overseas batween
+SS] waa 1929. An cdditional 420 wers ciscovered in friendly foreign
+overceus fucilities tetwoen 1955 and igo.
+
+ 
+  
+
+  
+
+ 
+
+  
+    
+  
+ 
+  
+
+ 
+
+ere decliny with we
+hams whien in pee
+
+invol: ft
+
+ 
+
+wicuvicus and physical
+davice:).
+
+  
+
+or
+Covermenat
+iiley vhrough
+
+yo in tris
+
+  
+
+a
+interarcney bourd
+its FArEOse» iz
+
+Tad Lourd dess elrce Cn aeti
+
+   
+
+ 
+
+wo tha exoeial shtuce oF Sc
+
+BE
+c
+in
+5
+ce
+oO
+r
+f
+,
+o
+ir
+
+ 
+ 
+
+- TO insure fet no tn rorza tL
+
+8
+E
+e
+
+ 
+
+ 
+
+Cc
+
+5
+
+INFIDENTIAL

@@ -1,0 +1,62 @@
+(OOM) ;
+
+_— . : UNCLASSIFIED
+
+ 
+
+27 June 1994
+
+MEMORANDUM FOR: Ce
+a DA
+
+FROM: Cb
+
+SUBJECT: JFK Database Extract for NARA
+REFERENCE:
+
+fin June 15, we met with Mike Getsey and Gill Grover of NARA to discuss improvements te the JFK database extract . The following
+
+issues were discussed and will require action.
+f
+
+ot HE will need to tall with Steva Tiley (Q1BH 13-662{tencerning the NARA requirement that testricted fields be released to them. — pel ice a
+4GE
+
+ 
+
+This could result in a madification te the application. eM Re?
+
+Qe 2. HRG should alse discuss with Steve Tilley the new exemptiqn eudes and determine what effect they will have on the collection. This yi .
+“ <, . 17 7 _sevtcscnt ect ceEREEREEE TO
+could result in a modification te the application. Pr 6 Le ‘
+
+A RG should print [B aids on white paper.
+wot . . CRT Lee ;
+» A NARA would like us te provide ar feast one keywordisubject} per document and any number of keywords per dacument, NARA will be )
+
+cy . expanding their keyword field to 250 characters. Bath of these items require a modification to the application. {7 eed MD cs
+
+  
+
+ 
+
+ons NARA has preliminary plans to expand the title field from 60 characters to 80 characters; they do not want the field truncated. ( 2 sO ? )
+However, the tite will still he truncated unless HAG modifies their data te 80 character. This will require a modification te the . ;
+application. ; ; ~
+_ cree (Lud ob been NARA fy
+Qet SS a NARA wants the date time use? stampremaved from the iD aft This will require a modification te the application, 77 CG CWA AAA,
+
+Awe Oy 7. NARA would like the Opening Criteria to say a true criterta gs opposed to the current canned statement, This will require a
+he ”  medification to the application and data populates by HAG. ‘oh O i €
+° een
+|ARA would like the box aumber and folder information prefixed to the comments field. This will require a modification ta the
+application. ,
+
+NARA will be faxing their new formats and examples ta us this week. | will contact you te schedule a meeting to review the akeve
+issues. Thank you and | can be reached an 364 17/8).
+
+ 
+
+poo & Sheet
+
+UNCLASSIFIED

@@ -1,0 +1,111 @@
+74-00000
+
+. RETURNTO CIA ~
+Background Use Only
+
+* «Bo Not Reproduce Page Two
+
+‘ip,
+
+short range communications, etc., is available from many
+manufacturers, Our Quick Reaction Facility can produce a
+
+small number of radio switches based on these devices with a
+considerably lester degree of security {rom false signal triggering
+with a lead time of 6 to 8 Weeks, Simple mechanical protection
+against accidental triggering can be gained by inclusion of counting
+switches, for example, which require a preset number of firing
+impulses intentionally transmitted to produce the final closure of
+
+a relay and firing of a charge.
+
+5. Reliability of operation in terms of response toa
+transmitted signal of a given power is quite difficult to predict when
+conditions of antenna length, orientation and exposure cannot be
+foreseen. Location of the receiver.in a target building will aiso have
+a strong bearing on ‘range’ from the transmitter, Building construction,
+intervening obstacles and interference from other nearby radio fre~
+quency sources will affect performance of the set.
+
+6 you wish to discuss the pro'temse in greater depth,
+we recommend a conference with audio ‘echnicians or engineera,
+It may serve to clarify the appropriate -haracteristice which special or m
+modified commercial equipment shoule possess to megt the needs of your
+operation. Priblems of camouflaging the explosive ox incendiary materal
+te serve operational requirements would be minor compared to the
+necessary consideration of effects on the receiver switch concealed
+within which could have important effecte on performance.
+
+ 
+
+Distribution:
+2-G/SAS
+ 
+
+10179-10167
+
+ 
+
+ie
+
+g
+
+RETURNTO CIA |
+ckground Use Only
+Do Not Reproduce / , 4
+
+oe 04
+
+©)
+
+TSS/COAP MOMS #686
+3 January 1963 ,
+
+MEMORANDUM FOR : Chief, Special Affaire Staff
+
+Mr. A, Rodriquez
+
+ATTENTION
+
+SUBJECT 3 Radio Switch Equipment for Demolition
+Firing Purposes
+
+1, After our conversation on'hie subject on 30 December,
+
+the Qdeation was discussed with Mr. TSD/AOB, and
+serene The following information i¢ forwarded
+for fOur Consideration as a result of our discussions,
+
+7
+
+2s MeL) Audio Operations Branchy-recommends two
+companies. as sources of cquipmient of thie nature, These companies
+have experience, under classified contracts with TSD, in producing
+reliable equipment for special purposes of this sort, They also,
+of course turn cut commercial equipment of good quality for normal
+
+communications needs. These a anies are:
+29,0
+
+a.\Motorola, Chicago, Hlinois >)
+b( Kell, Cambridge, Massachusetts ) 24,08
+The TSD VHF radio awitth edalpand ition nee
+
+radio switth equipment for demolition needs was
+developed for us by/Mctorola, )ransistorized sets have
+been produced to meét the apecial needs (riét for demolition purposes)
+of other SAS projects,
+
+ 
+
+3. In the opinion of both persons conaulted, the expenses noted
+in our firet discussion should have produced a reasonable amount of
+workable equipment if the source was both capable and reliable.
+‘SD recommends the use of frequencies in the VHF /YHF apectrum for
+equipment of this sort and crystal tuning control for reasons of reliabity,
+selectivity and rejection of spurious signals. :
+
+. 4. Inexpensive equipment of Japanese or American manufacture
+im the citizens band frequency ranges for toys, radio contrat devices, .
+
+ 
