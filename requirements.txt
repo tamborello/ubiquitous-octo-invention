@@ -1,0 +1,14 @@
+gensim
+wordfreq
+spacy
+pandas
+scipy
+matplotlib
+langdetect
+pdf2image
+pillow
+pytesseract
+pydoc
+azure
+textstat
+openpyxl
